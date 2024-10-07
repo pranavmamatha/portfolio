@@ -433,6 +433,13 @@ html {
     padding-right: 4%;
   }
 
+  .pageLinks {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    color: #8a8a93;
+  }
+
   .about {
     flex-direction: column;
   }
