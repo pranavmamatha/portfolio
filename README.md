@@ -1,4 +1,4 @@
-<h1 align="center">My portfolio Website</h1>
+<h1 align="center">Modern DevFolio</h1>
 
 <p align="center">This website is an opportunity to demonstrate a clean and minimum <b>Portfolio</b> layout of information about me and to provide further information (via links) about my work.<p>
 
@@ -6,7 +6,7 @@
 
 # Website Preview
 
-![Alt text](https://ibb.co/1042v4r "Main Page")
+![Alt text](https://freeimage.host/i/dpukhLF "Main Page")
 This is a portfolio of my work, including both my personal and academic projects.
 
 :star: Star me on GitHub — it helps!
