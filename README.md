@@ -6,7 +6,7 @@
 
 # Website Preview
 
-![Alt text](https://freeimage.host/i/dpukhLF "Main Page")
+![Alt text](https://github.com/pranavranjithkannan/portfolio/blob/main/images/Demo.png?raw=true "Main Page")
 This is a portfolio of my work, including both my personal and academic projects.
 
 :star: Star me on GitHub — it helps!
