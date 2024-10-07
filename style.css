@@ -433,13 +433,6 @@ html {
     padding-right: 4%;
   }
 
-  .pageLinks {
-    display: flex;
-    align-items: center;
-    gap: 36px;
-    color: #8a8a93;
-  }
-
   .about {
     flex-direction: column;
   }
@@ -510,10 +503,6 @@ html {
   .navbar {
     padding-left: 28px;
     padding-right: 28px;
-  }
-
-  .pageLinks {
-    display: none;
   }
 
   .about {
