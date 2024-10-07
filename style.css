@@ -1,12 +1,12 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #000;
+  background-color: red;
   font-family: "Inter", sans-serif;
 }
 
 ::selection {
-  background-color: #000;
+  background-color: red;
   color: #fff;
 }
 
